@@ -1,8 +1,4 @@
-# 🎓 Backstage.io Learning Implementation
-
-[![Backstage](https://img.shields.io/badge/Backstage-Learning_Project-blue)](https://backstage.io)
-[![Progress](https://img.shields.io/badge/Tutorial_Progress-75%25-yellow)](https://www.youtube.com/watch?v=1XtJ5FAOjPk)
-[![Status](https://img.shields.io/badge/Status-In_Progress-orange)](https://github.com/yourusername/backstage-app)
+# Backstage.io Learning Implementation
 
 ## About This Project
 
